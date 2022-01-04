@@ -1,0 +1,24 @@
+{
+  "clienttoken": "OTIzMjEwMDcxNjQxNTg3NzEz.YcMsYQ.0llbsFJ29Un7rrRa9tP_UevSPIk",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Backup Shiina Bot",
+
+  "clientid": "923210071641587713",
+
+  "TestingServerID": "https://discord.gg/PqBBsXtGW4",
+
+  "clientavatar":"https://media.discordapp.net/attachments/786187372424855552/877511137283964948/4D473C27-F62D-4B0C-ACE3-0A49DE030D60.jpeg?width=439&height=375",
+
+  "prefix": ",",
+
+  "developerID": ["736170687521226763","ID2","ID3","ID4"],
+
+  "colorthemecode":"#FF5733 (Not Neccessary.)",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down","Subscribe To DrakeZee lol"],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}

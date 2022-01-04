@@ -1,0 +1,12 @@
+
+module.exports = {
+  name: "",
+  aliases: [""],
+  description: "",
+  botpermissions:["SEND_MESSAGES"],
+  usage: "",
+  cooldowns: 1000,
+  developersOnly: false,
+  toggleOff: false,
+  run: async  (client, message, args) =>{}
+}
